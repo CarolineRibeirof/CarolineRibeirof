@@ -11,7 +11,7 @@
 
 ### 💡 Sobre mim
 
-Sou iniciante na área de tecnologia, mas cheio(a) de vontade de aprender. No momento, estou focado(a) em construir uma base sólida com lógica de programação e desenvolvimento web.
+Sou iniciante na área de tecnologia, mas cheia de vontade de aprender. No momento, estou focada em construir uma base sólida com lógica de programação e desenvolvimento web.
 
 ### 📘 O que estou estudando:
 - 🧠 Algoritmos e lógica de programação
@@ -29,21 +29,4 @@ Vou começar a publicar meus primeiros projetos, por mais simples que sejam. Tod
 
 ---
 
-### 📫 Contato
-Se quiser trocar uma ideia ou acompanhar minha evolução:
-[Seu LinkedIn ou e-mail aqui]
 
-
-**CarolineRibeirof/CarolineRibeirof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
